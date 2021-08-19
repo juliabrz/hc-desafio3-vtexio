@@ -33,6 +33,7 @@
       "minicart.v2"
     ]
   },
+  
   "flex-layout.col#spacer": {
     "props": {
       "width": "grow"
@@ -48,8 +49,8 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://brand.vtex.com/static/media/VTEX_pink_RGB.751a9fb5.svg",
-      "width": "80"
+      "url": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/upmedal.png",
+      "width": "120"
     }
   },
   "header-layout.mobile": {
@@ -61,7 +62,7 @@
   "flex-layout.row#mobile": {
     "children": [
       "drawer",
-      "logo",
+      "logo#mobile",
       "flex-layout.col#spacer",
       "login",
       "minicart.v2"
@@ -71,6 +72,14 @@
       "preventHorizontalStretch": true,
       "preserveLayoutOnMobile": true,
       "fullWidth": true
+    }
+  },
+  "logo#mobile": {
+    "props": {
+      "title": "Logo",
+      "href": "/",
+      "url": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/upmedal.png",
+      "width": "80"
     }
   },
   "drawer": {

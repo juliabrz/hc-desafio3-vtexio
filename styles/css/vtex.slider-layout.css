@@ -1,0 +1,12 @@
+.imageElement--slider-layout-demo{
+    border-radius: 1rem;
+}
+
+.caretIcon{
+    color: white;
+}
+
+.slideTrackContainer--slider-layout-demo{
+    align-items: flex-end;
+}
+
