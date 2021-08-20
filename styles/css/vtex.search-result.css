@@ -10,3 +10,9 @@
 .totalProducts--layout{
     color:#79fd13;
 }
+
+.gallery{
+    justify-content: space-between;
+    padding: 0px;
+}
+

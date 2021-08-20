@@ -10,3 +10,14 @@
     align-items: flex-end;
 }
 
+.sliderArrows--slider-layout-demo{
+    bottom: 0;
+}
+
+.sliderLayoutContainer--slider-layout-demo{
+    padding-bottom: 35px;
+}
+
+.paginationDotsContainer--slider-layout-demo{
+    padding-bottom: 10px;
+}
