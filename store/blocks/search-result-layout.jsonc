@@ -1,11 +1,11 @@
 {
-  "search-result-layout.customQuery#promocoes": {
+  "search-result-layout.customQuery#corinthians": {
       "props": {
         "querySchema": {
           "orderByField": "OrderByTopSaleDESC",
           "hideUnavailableItems": true,
           "maxItemsPerPage": 8,
-          "queryField": "palmeiras",
+          "queryField": "corinthias",
           "mapField": "ft"
         },
         "preventRouteChange": true
@@ -16,13 +16,39 @@
         "search-not-found-layout"
       ]
     },
+  "search-result-layout.customQuery#palmeiras": {
+    "props": {
+      "querySchema": {
+        "orderByField": "OrderByTopSaleDESC",
+        "hideUnavailableItems": true,
+        "maxItemsPerPage": 8,
+        "queryField": "palmeiras",
+        "mapField": "ft"
+      },
+      "preventRouteChange": true
+    },
+    "blocks": [
+      "search-result-layout.desktop#home",
+      "search-result-layout.mobile#home",
+      "search-not-found-layout"
+    ]
+  },
   "search-result-layout.desktop#home": {
     "children": [
-      "search-content"
+      "flex-layout.row#content"
     ]
   },
   "search-result-layout.mobile#home":{
     "children": [
+      "flex-layout.row#content"
+    ]
+  },
+  "flex-layout.row#content":{
+    "props": {
+      "marginTop": 3,
+      "marginBottom": 10
+    },
+    "children":[
       "search-content"
     ]
   }

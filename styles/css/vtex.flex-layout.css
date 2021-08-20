@@ -13,9 +13,10 @@
 
 .flexRow--footer-mobile {
     position: fixed;
+    margin-top: 20px;
     bottom: 0;
     width: 100%;
-    height: 50px;
+    height: 90px;
     z-index: 3;
     background-color: #424242;
 }
@@ -24,4 +25,13 @@
     padding: 0;
     padding-top: 15px;
     justify-content: space-around;
+}
+
+.flexRow--rodape {
+    margin-top: 20px;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    z-index: 3;
+    background-color: #424242;
 }

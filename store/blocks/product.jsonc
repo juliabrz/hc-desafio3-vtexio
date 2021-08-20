@@ -48,7 +48,8 @@
     ]
   },"flex-layout.row#desc":{
     "props": {
-      "marginTop": 6
+      "marginTop": 6,
+      "marginBottom": 10
     },
     "children": [
       "product-description"
