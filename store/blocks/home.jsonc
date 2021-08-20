@@ -24,6 +24,7 @@
   "tab-layout#home":{
     "children":[
       "tab-list#home",
+      "list-context.image-list#demo",
       "tab-content#home"
     ]
   },
@@ -95,7 +96,6 @@
   "tab-content.item#home1": {
     "children": [
       "rich-text#home1",
-      "list-context.image-list#demo",
       "search-result-layout.customQuery#promocoes"
     ],
     "props": {
@@ -104,8 +104,7 @@
   },
   "tab-content.item#home2": {
     "children": [
-      "rich-text#home2",
-      "list-context.image-list#demo"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "maravilhas"
@@ -113,8 +112,7 @@
   },
   "tab-content.item#home3": {
     "children": [
-      "rich-text#home2",
-      "list-context.image-list#demo"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "corintians"
@@ -122,8 +120,7 @@
   },
   "tab-content.item#home4": {
     "children": [
-      "rich-text#home2",
-      "list-context.image-list#demo"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "palmeiras"
@@ -131,8 +128,7 @@
   },
   "tab-content.item#home5": {
     "children": [
-      "rich-text#home2",
-      "list-context.image-list#demo"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "signos"
@@ -140,8 +136,7 @@
   },
   "tab-content.item#home6": {
     "children": [
-      "rich-text#home2",
-      "list-context.image-list#demo"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "guerreiros"
@@ -149,8 +144,7 @@
   },
   "tab-content.item#home7": {
     "children": [
-      "rich-text#home2",
-      "list-context.image-list#demo"
+      "rich-text#home2"
     ],
     "props": {
       "tabId": "divertidos"
@@ -176,11 +170,11 @@
       "height": 650,
       "images": [
         {
-          "image": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/6iibxhv7jzzdn2749uhoxub2fdjf?response-content-disposition=inline%3B%20filename%3D%22BANNER-WOOD.png%22%3B%20filename%2A%3DUTF-8%27%27BANNER-WOOD.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIRHGNFPZAGTZ7SUA%2F20210819%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210819T004701Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=61f0fc5c0411265413f400dbd8f51e0666d42da0e57fc27cbb5db7d38eab0763",
+          "image": "assets/img-banner-guerreiros.png",
           "description": "something something"
         },
         {
-          "image": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/du3k6akoks0u3xe322aypnaaal8e?response-content-disposition=inline%3B%20filename%3D%22W6S9NXIJ40I86DJI17S40123EYNM3J6CNF24M4Y04GGC9TBSXU.png%22%3B%20filename%2A%3DUTF-8%27%27W6S9NXIJ40I86DJI17S40123EYNM3J6CNF24M4Y04GGC9TBSXU.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIRHGNFPZAGTZ7SUA%2F20210819%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210819T004701Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=b8241d7ff2439c2949ae4c7d05a4992adb8ed555350a4ea0275471662dceb88a",
+          "image": "assets/img-banner-promo-upmedal.png",
           "description": "something something"
         }
       ]

@@ -43,6 +43,7 @@
   },
   "flex-layout.col#right_search": {
     "props": {
+      "marginLeft":6,
       "preventVerticalStretch": true,
       "width":"80%"
     },
@@ -54,6 +55,11 @@
     "children": [
       "total-products.v2",
       "order-by.v2"
+    ]
+  },
+  "search-result-layout.mobile":{
+    "children": [
+      "flex-layout.row#main_search"
     ]
   }
 }

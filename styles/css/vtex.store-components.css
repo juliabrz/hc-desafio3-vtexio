@@ -11,3 +11,7 @@
 .searchBarContainer :global(.vtex-styleguide-9-x-input){
     color: #59ff00
 }
+
+.logoLink{
+    justify-content: center;
+}
