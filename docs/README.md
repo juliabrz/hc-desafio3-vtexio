@@ -17,11 +17,14 @@ RESULTADO: [juliabrz](https://juliabrz--hiringcoders2021.myvtex.com/)
     - [x]  Layout mobile
     - [x]  Criar um componente customizado para falar com suporte no whatsapp, no rodapé
     - [x]  Criar um componente customizado para cadastrar leads (possíveis clientes prospectos) - Utilizando components com React
+   
             Campos Necessários:
               ○ Nome
               ○ Email
               ○ Telefone
            Componente em: [form-components](https://github.com/juliabrz/form-component)
+           
+           
     - [ ] Opcional - Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS
 
 ## AWS API Gateway
