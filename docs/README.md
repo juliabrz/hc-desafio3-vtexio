@@ -2,7 +2,7 @@
 
 Refazer o interface do [UpMedal](https://www.upmedal.com/desafios) com o VTEX IO
 
-RESULTADO: [juliabrz](https://juliabrz--hiringcoders2021.myvtex.com/)
+RESULTADO: [juliabrz--hiringcoders2021.myvtex.com](https://juliabrz--hiringcoders2021.myvtex.com/)
 
 
 ## Tasks
@@ -22,9 +22,8 @@ RESULTADO: [juliabrz](https://juliabrz--hiringcoders2021.myvtex.com/)
               ○ Nome
               ○ Email
               ○ Telefone
-           Componente em: [form-components](https://github.com/juliabrz/form-component)
-           
-           
+              
+      Componente em: [form-components](https://github.com/juliabrz/form-component)
     - [ ] Opcional - Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS
 
 ## AWS API Gateway
