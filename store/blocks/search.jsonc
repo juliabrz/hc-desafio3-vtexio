@@ -26,7 +26,8 @@
   },
   "flex-layout.row#main_search": {
     "props": {
-      "marginTop": 6
+      "marginTop": 6,
+      "marginBottom": 10
     },
     "children": [
       "flex-layout.col#left_search",
@@ -44,6 +45,7 @@
   "flex-layout.col#right_search": {
     "props": {
       "marginLeft":6,
+      "marginRight":6,
       "preventVerticalStretch": true,
       "width":"80%"
     },

@@ -50,7 +50,8 @@
     "vtex.product-price": "1.x",
     "vtex.store-image": "0.x",
     "vtex.checkout-summary": "0.x",
-    "vtex.condition-layout": "1.x"
+    "vtex.condition-layout": "1.x",
+    "hiringcoders2021.formleads-juliabrz": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
