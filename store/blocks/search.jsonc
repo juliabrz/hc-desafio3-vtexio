@@ -1,4 +1,4 @@
-{
+{ //pagina de busca, baseado nos tutoriais feito em aula
   "store.search": {
     "blocks": [
       "search-result-layout" 
@@ -24,6 +24,7 @@
       "pagination": "showMore"
     }
   },
+  // marginBotton: 10 para não ter problemas de sobreposição com o footer
   "flex-layout.row#main_search": {
     "props": {
       "marginTop": 6,

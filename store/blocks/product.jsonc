@@ -1,4 +1,5 @@
 {
+  //pagina de produto, baseado nos tutoriais feito em aula
   "store.product": {
     "children": [
       "breadcrumb",

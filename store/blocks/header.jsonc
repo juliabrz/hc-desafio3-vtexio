@@ -1,4 +1,4 @@
-{
+{ // header default com modificação apenas do logo
   "header": {
     "blocks": ["header-layout.desktop", "header-layout.mobile"]
   },

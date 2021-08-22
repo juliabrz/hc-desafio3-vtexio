@@ -1,4 +1,4 @@
-{
+{ // costumQuery utilizadas, elas retornam o search-content e o formulario de cadastro
   "search-result-layout.desktop#home": {
     "children": [
       "flex-layout.row#content"
@@ -9,6 +9,7 @@
       "flex-layout.row#content"
     ]
   },
+  // marginBotton: 10 para não ter problemas de sobreposição com o footer
   "flex-layout.row#content":{
     "props": {
       "marginTop": 3,
@@ -16,6 +17,7 @@
     },
     "children":[
       "search-content",
+      // adição do formulario de cadastro
       "formleads"
     ]
   },

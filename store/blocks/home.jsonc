@@ -4,6 +4,7 @@
       "flex-layout.row#principal"
     ]
   },
+  // flex-row principal
   "flex-layout.row#principal":{
     "props":{
       "horizontalAlign": "center"
@@ -21,6 +22,7 @@
       "tab-layout#home"
     ]
   },
+  // tab-layout para separar produtos por categoria
   "tab-layout#home":{
     "children":[
       "tab-list#home",
@@ -85,6 +87,7 @@
       "label": "Guerreiros"
     }
   },
+  // CONTEUDO DO TABLOUT - puxa a customQuery do arquivo "search-result-layout"
   "tab-content.item#home4": {
     "children": [
       "search-result-layout.customQuery#promo"

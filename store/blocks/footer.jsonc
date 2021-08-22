@@ -14,6 +14,8 @@
       "flex-layout.row#footermobile"
     ]
   },
+
+  //footer desktop
   "flex-layout.row#rodape":{
     "props":{
       "blockClass":"rodape",
@@ -30,6 +32,8 @@
       "src": "assets/img-logo-upmedal.png"
     }
   },
+
+  //footer mobile 
   "flex-layout.row#footermobile": { 
     "props": {
       "blockClass": "footer-mobile",
@@ -126,6 +130,7 @@
         "rich-text#suporte"
     ]
   },
+  //imagem com link para mandar mensagem no WhatsApp
   "image#suporte": {
     "props": {
       "width": 30,
