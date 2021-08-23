@@ -4,5 +4,9 @@
 
 .buyButtonContainer{
     background-color:#424242;
-    border-radius-bottom: 0.5px;
+    text-align: center;
+}
+
+.nameContainer{
+    justify-content: center
 }
