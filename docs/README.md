@@ -29,3 +29,5 @@ RESULTADO: [juliabrz--hiringcoders2021.myvtex.com](https://juliabrz--hiringcoder
 ## AWS API Gateway
 
 Para esta parete do desafio foi utilizado AWS AMPLIFY que é capaz de configurar back-ends de aplicativos e conectá-los em minutos. Com ela foi configurados a API getaway, a Função lAMBDA e o Bando de dados DynamoDB. Mais informações no [form-components](https://github.com/juliabrz/form-component).
+
+Para verificar se os dados foram enviados consultar o **Console**
